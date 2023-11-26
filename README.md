@@ -11,8 +11,8 @@
   <br><p align="centre"><b>Entre em contato</b></p>  
 <p align="center">
 <a href="mailto:wendrellpossatooliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=green" /></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wendrell-possato-1a9275272/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=green" /></a>
-<a href="https://github.com/dougkalash"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=green" /></a>
+<a href="https://www.linkedin.com/in/wendrell-possato-1a9275272/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=green" /></a>
+<a href="https://github.com/wendrellBr"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=green" /></a>
 </p>
 </div>
 
