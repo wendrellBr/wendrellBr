@@ -19,19 +19,14 @@
 <div align="center" >
 <br><p align="centre"><b>Linguagens e Frameworks</b></p>  
   <div align="center" style="display: inline_block;"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwindcss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Tailwindcss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="SqLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+
+
 <br>
 </div>
 
